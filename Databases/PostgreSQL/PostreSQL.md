@@ -24,7 +24,13 @@ interface.
 to run it in any terminal: first install `psql shell`
 
 then to start with a database:
-```postgreSQL shell 
+```postgreSQL shell
+sudo -u postgres psql
+postgres=# create database mydb;
+postgres=# create user myuser with encrypted password 'mypass';
+postgres=# grant all privileges on database mydb to myuser;
+
+
 psql -U postgres -p 5432 -h localhost database-name
 // linux = sudo -u postgres psql
 -U is for postgres User
