@@ -14,7 +14,6 @@ import { useLocalStorage } from '@uidotdev/usehooks';
 // (key, initialValue) > savedValue, setValue
 ```
 
-
 ```jsx
 // useNetworkState()
 import { useNetworkState } from '@uidotdev/usehooks'
