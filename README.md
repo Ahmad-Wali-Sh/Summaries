@@ -1,4 +1,5 @@
 # Summaries
+
 This Repository is for my own knowledge summaries and notes on Programming Topics.
 
 - Front-end
@@ -10,5 +11,3 @@ This Repository is for my own knowledge summaries and notes on Programming Topic
 - Network
 - Telegram Bots
 - Software Engineering
-
-
