@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "79777ae4ae7dd864",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3c6f70a0492f14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21b76bdf4dfdd1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Software Engineering - A Practitioner' Approach/Author.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10a986399eb9e121",
+    "type": "split",
+    "children": [
+      {
+        "id": "778b42f7b67f83d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3d2f3276493a03a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff198dfa8bb9067f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6a16c0ac90e5204",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a9ad564e8902154c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d7164b338160236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f96d2bbcb1bdb289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Engineering/Software Engineering - A Practitioner' Approach/Author.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3961c2c3f0c4b04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Engineering/Software Engineering - A Practitioner' Approach/Author.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c76e0f08e1dfc8aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "71f21502cef42950",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Engineering/Software Engineering - A Practitioner' Approach/Author.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "21b76bdf4dfdd1cb",
+  "lastOpenFiles": [
+    "Software Engineering/Software Engineering - A Practitioner' Approach/Preface.md",
+    "Software Engineering/Software Engineering - A Practitioner' Approach/Author.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "README.md",
+    "Software Engineering/Software Engineering - A Practitioner' Approach",
+    "Frontend/React/Axios.md",
+    "Frontend/React/React Auth Kit.md",
+    "Frontend/React/React.md",
+    "Frontend/React/Hooks.md",
+    "Databases/PostgreSQL/PostreSQL.md",
+    "Backend/Django/Django.md",
+    "Backend/Django/Django Rest Framework.md",
+    "Backend/Django/crontab.md",
+    "Algorithims/Big-O Notation.md"
+  ]
+}
