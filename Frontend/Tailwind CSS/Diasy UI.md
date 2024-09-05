@@ -1,11 +1,9 @@
-# Diasy UI 
+# `Diasy UI` 
 
 `Summary by Ahmad Wali Sharify`
 
 ### A Tailwind CSS pre-built classes for UI components      
-
 <br> 
-
 # Installation
 ```
 npm i -D daisyui@latest

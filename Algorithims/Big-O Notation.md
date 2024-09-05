@@ -31,8 +31,6 @@ function sumUp(n) {
 }
 ```
 
-<br>
-
 ## O(n): Linear Time
 
 linear time and applies to algorithms that must do n operations in the worst case scenario.

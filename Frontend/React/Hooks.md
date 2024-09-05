@@ -1,5 +1,3 @@
-# Hooks
-
 `Summary by Ahmad Wali Sharify`
 
 Hooks allow us to "hook" into React Features such as state and lifecycle methods.
@@ -11,11 +9,11 @@ they are reusable functions. from React or custom third party including you.
     - Hooks can only be called at the top level of a component
     - Hooks cannot be conditional
 
-## useEffect
+## `useEffect`
 ---
 
-To Perform side effects (Fetching Data, directly Updating DOM, and timers) in your components Use useEffect
-Effects are external systems to be connected like setInterval() and more..
+To Perform side effects (Fetching Data, directly Updating `DOM`, and timers) in your components Use `useEffect`
+Effects are external systems to be connected like `setInterval()` and more..
 
 ```jsx
 useEffect(() {}, [])
@@ -33,13 +31,12 @@ useEffect(() => {setTimeout(() =>
 
 ```
 
-dependencies can be added to [] in useEffect optional argument.
+dependencies can be added to [] in `useEffect` optional argument.
 
 any time a dependency changes, function calls.
 
 Some Effect require cleanup to reduce memory leaks
 like timeouts, subscriptions, event listeners and other...
-
 
 we do this by clean up in useEffect return 
 
@@ -57,21 +54,18 @@ return () => clearTimeout(timer)
 
 useEffect for Fetching data is not so great, you can use your framework mechanism for fetching data.
 
-<br>
-
-## useContext
+## `useContext`
 ---
 
 React Context is a way to manage state globally.
 
-it can be used with the useState hook to share state between deeply nested components.
+it can be used with the `useState` hook to share state between deeply nested components.
 
 a solution to prop drilling.
 
-
 to Create A Context: 
 
-**Context.jsx**
+`Context.jsx`
 ```jsx
 import { createContext } from "react";
 
@@ -130,10 +124,7 @@ export default Component1
       2. Provide Root State values to Components
       3. Use and Edit State values vie useContext
 
-
-<br>
-
-## useRef
+## `useRef`
 ---
 
 Allows you to persist values between renders.
@@ -158,10 +149,10 @@ return <input ref={inputRef} />
 
 <br>
 
-## useReducer
+## `useReducer`
 ---
 
-useReducer() is the hook for extracting state management out of the component.
+`useReducer()` is the hook for extracting state management out of the component.
 
 structure:
 ```jsx
@@ -187,42 +178,34 @@ onClick={() => dispatch(action1)}
 ```
 Simply, set of actions to be done on state object conditionally using dispatch.
 
-<br>
-
-## useMemo
+## `useMemo`
 ---
 
-useMemo Hook returns a memoized value.
+`useMemo` Hook returns a `memoized` value.
 
-memoization is like `caching value` so it can be recalculated just in case it needed.
+`memoization` is like `caching value` so it can be recalculated just in case it needed.
 
-useMemo Runs only its `dependencies updates`.
+`useMemo` Runs only its `dependencies updates`.
 
 Structure:
 ```jsx
 const Count = useMemo(() => {function > value} , [dependency])
 ```
-it is used for better performance. and is like useCallBack but it returns a value.
+it is used for better performance. and is like `useCallBack` but it returns a value.
 
-<br>
-
-## useCallBack
+## `useCallBack`
 ---
-useCallback Hook returns a memoized callback function.
+`useCallback` Hook returns a `memoized` callback function.
 
 a Function that only runs when its dependency updates. 
 
-Like useMemo.
+Like `useMemo`.
 structure:
 ```jsx
 const addTodo = useCallback(() => {funtion}, [dependency])
 ```
 addTodo will run only if dependency changes and updates.
-its for performance optimization, like useMemo but returns a function, not value
-
-
-<br>
-
+its for performance optimization, like `useMemo` but returns a function, not value
 
 ## Custom Hooks
 ---

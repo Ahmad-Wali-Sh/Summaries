@@ -1,9 +1,9 @@
-# Axios
-
 `Summary by Ahmad Wali Sharify`
 
-    Axios is an HTTP client Library that allows you to make requests to a given endpoint.
-``` 
+Axios is an HTTP client Library that allows you to make requests to a given endpoint.
+
+```
+// installation
 npm i axios
 ```
 ```jsx
