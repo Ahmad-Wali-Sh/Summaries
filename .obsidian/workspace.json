@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Docker, Dockerfile, Docker Compose.md",
-                "mode": "preview",
+                "file": "Books/Clean Code/Clean Code - JavaScript.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 230.5
   },
   "right": {
     "id": "a9ad564e8902154c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Docker, Dockerfile, Docker Compose.md",
+                "file": "Books/Clean Code/Clean Code - JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Docker, Dockerfile, Docker Compose.md",
+                "file": "Books/Clean Code/Clean Code - JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Docker, Dockerfile, Docker Compose.md"
+                "file": "Books/Clean Code/Clean Code - JavaScript.md"
               }
             }
           }
@@ -149,23 +149,12 @@
   "active": "21b76bdf4dfdd1cb",
   "lastOpenFiles": [
     "Untitled.md",
+    "Books/Clean Code/Clean Code - JavaScript.md",
     "Tools/Docker, Dockerfile, Docker Compose.md",
-    "Tools/Docker",
+    "Books/Clean Code",
+    "Untitled",
     "Podcasts/Man, Dragons and Monsters/The Creation of Man.md",
-    "Tools",
-    "Proramming Languages/JavaScript From Frontend to Backend/Exploring the Advanced Concepts of JavaScript.md",
-    "Podcasts/Man, Dragons and Monsters",
-    "Podcasts",
-    "Proramming Languages/JavaScript From Frontend to Backend/JavaScript Syntax - Basics.md",
-    "Proramming Languages/JavaScript From Frontend to Backend/Introduction.md",
     "README.md",
-    "Software Engineering/Software Engineering - A Practitioner's Approach/Software And Software Engineering.md",
-    "Software Engineering/Software Engineering - A Practitioner's Approach/Preface.md",
-    "Software Engineering/Software Engineering - A Practitioner's Approach/Author.md",
-    "Algorithims/Big-O Notation.md",
-    "Backend/Django/Django Rest Framework.md",
-    "Backend/Django/Django.md",
-    "Backend/Django/crontab.md",
     "Databases/PostgreSQL/PostreSQL.md",
     "Frontend/Tailwind CSS/Tailwind CSS.md",
     "Frontend/Tailwind CSS/Diasy UI.md",
@@ -174,10 +163,23 @@
     "Frontend/React/useHooks.com.md",
     "Frontend/React/React Toastify.md",
     "Frontend/React/React Query.md",
-    "Frontend/React/React Hook Form.md",
     "Frontend/React/React Auth Kit.md",
     "Frontend/React/React.md",
     "Frontend/React/Hooks.md",
+    "Frontend/React/Axios.md",
+    "Software Engineering/Software Engineering - A Practitioner's Approach/3. Software And Software Engineering.md",
+    "Software Engineering/Software Engineering - A Practitioner's Approach/2. Preface.md",
+    "Software Engineering/Software Engineering - A Practitioner's Approach/1. Author.md",
+    "Proramming Languages/JavaScript From Frontend to Backend/3. Exploring the Advanced Concepts of JavaScript.md",
+    "Proramming Languages/JavaScript From Frontend to Backend/2. JavaScript Syntax - Basics.md",
+    "Proramming Languages/JavaScript From Frontend to Backend/1. Introduction.md",
+    "Frontend/React/React Hook Form.md",
+    "Backend/Django/Django Rest Framework.md",
+    "Backend/Django/Django.md",
+    "Tools/Docker",
+    "Tools",
+    "Podcasts/Man, Dragons and Monsters",
+    "Podcasts",
     "Proramming Languages/JavaScript From Frontend to Backend",
     "Software Engineering/Software Engineering - A Practitioner's Approach"
   ]
