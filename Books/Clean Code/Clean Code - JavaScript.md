@@ -1,3 +1,5 @@
+`Summary by: Ahmad Wali Sharify`
+
 This is not a style guide. It’s a guide to producing
 readable, reusable, and refactorable software in JavaScript.
 
@@ -505,3 +507,4 @@ try {
 2. Don’t leave commented out code in your codebase
 3. Don’t have journal comments
 4. Avoid positional markers
+5. 
