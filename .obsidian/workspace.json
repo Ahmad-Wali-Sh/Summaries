@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Clean Code/Clean Code - JavaScript.md",
+                "file": "Test/JavaScript/Testing-Library.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 282.5
   },
   "right": {
     "id": "a9ad564e8902154c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Clean Code/Clean Code - JavaScript.md",
+                "file": "Test/JavaScript/Testing-Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Clean Code/Clean Code - JavaScript.md",
+                "file": "Test/JavaScript/Testing-Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Clean Code/Clean Code - JavaScript.md"
+                "file": "Test/JavaScript/Testing-Library.md"
               }
             }
           }
@@ -148,11 +148,17 @@
   },
   "active": "21b76bdf4dfdd1cb",
   "lastOpenFiles": [
+    "Test/JavaScript/Testing-Library React.md",
+    "Test/JavaScript/Testing-Library UserEvent.md",
+    "Test/JavaScript/Testing-Library.md",
     "Untitled.md",
-    "Books/Clean Code/Clean Code - JavaScript.md",
+    "Test/JavaScript/Jest.md",
     "Tools/Docker, Dockerfile, Docker Compose.md",
-    "Books/Clean Code",
+    "Books/Clean Code/Clean Code - JavaScript.md",
+    "Test/JavaScript",
     "Untitled",
+    "Test",
+    "Books/Clean Code",
     "Podcasts/Man, Dragons and Monsters/The Creation of Man.md",
     "README.md",
     "Databases/PostgreSQL/PostreSQL.md",
@@ -172,10 +178,6 @@
     "Software Engineering/Software Engineering - A Practitioner's Approach/1. Author.md",
     "Proramming Languages/JavaScript From Frontend to Backend/3. Exploring the Advanced Concepts of JavaScript.md",
     "Proramming Languages/JavaScript From Frontend to Backend/2. JavaScript Syntax - Basics.md",
-    "Proramming Languages/JavaScript From Frontend to Backend/1. Introduction.md",
-    "Frontend/React/React Hook Form.md",
-    "Backend/Django/Django Rest Framework.md",
-    "Backend/Django/Django.md",
     "Tools/Docker",
     "Tools",
     "Podcasts/Man, Dragons and Monsters",
