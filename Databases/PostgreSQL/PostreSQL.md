@@ -30,6 +30,7 @@ postgres=# create database mydb;
 postgres=# create user myuser with encrypted password 'mypass';
 postgres=# grant all privileges on database mydb to myuser;
 
+GRANT ALL ON DATABASE pharmacy_v1 TO admin WITH GRANT OPTION;
 
 psql -U postgres -p 5432 -h localhost database-name
 // linux = sudo -u postgres psql
